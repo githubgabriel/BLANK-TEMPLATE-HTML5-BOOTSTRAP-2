@@ -1,0 +1,64 @@
+@media all and (max-width: 1200px) {
+	.nossosVereadores .vereadoresPics { 		width: 85%; 		margin: 0 auto; 	}
+	.noticiaSlide .btnLeft img  { width:25px; }
+	.noticiaSlide .btnRight img  { width:25px; }
+	.noticiaSlide .btnLeft { left: 1%; }
+	.noticiaSlide .btnRight {right: 1%;  }
+	.noticiaSlide .owl-carousel2 { padding-left:30px; padding-right:30px;  }
+	.twoBox ul li { font-size:14px; }
+	.twoBox ul {     width: 109%; 	}
+	.twoBox ul li img {     width: 29px; 	}
+	.twoBox .listBox .image img {     width: 210px;     height: 158px; 	}
+	.twoBox .contentBox img {     width: 83%; 	}
+	.twoBox .contentBox .titulo {     font-size: 17px; 	}
+	.twoBox .listBox {     margin-bottom: 10px; }
+}
+@media all and (max-width: 992px) {
+	.twoBox ul {     width: 107%; }
+	.twoBox .twocoluna {     margin-top: 30px; }
+	.twoBox .listBox {     margin-bottom: 25px; 		}
+	.twoBox .contentBox img {     width: 70%;     max-width: 150px; }
+	.twoBox .contentBox .subtitulo {       width: 90%;     max-width: 374px;     margin: 0 auto;  padding-bottom: 30px; }
+	.faleConosco .line {         margin-left: 5%; 	}
+	header .menusubtop .logo { 		max-width: 400px; 		height: 88px; 	}
+	.faleConosco .line {     color: white;     margin-bottom: 19px; text-align:center; 	}
+	.faleConosco .line img {     margin-right: 10px;     display: block;     margin: 0 auto;     margin-bottom: 10px; }
+	header .menusubtop .slider img {     height: 346px; 	}
+	.headerType01 .menutop ul:only-child > li > a {     padding-left: 0px;     padding-right: 0px;   }
+}
+@media all and (max-width: 768px) {
+
+	.faleConosco .line {         margin-left: 0%; 	}
+	.headerType01 .menutop li { 		width: 100% !important; 		padding-left: 3%; 	}
+	.nossosVereadores .vereadoresPics { 		width: 81%; 		margin: 0 auto; 	}
+	.nossosVereadores .vereador .label-title { right: 20%; }
+	.faleConosco .formulario input { padding:15px; }
+	.faleConosco .formulario textarea { padding:15px; }
+	.headerType01 .menutop a { 		padding-left: 12px; 		padding-right: 12px; 		padding-top: 17px; 		padding-bottom: 17px; 	}
+	.headerType01 .menutop .navbar-nav { 		margin: 7.5px 0px; 	}
+	.headerType01 .menutop li:last-child { 		padding-right: 3% !important; 	}
+	header .menusubtop .logo { 		max-width: 350px; 		height: 65px; 	}
+	.headerType01 .menutop { 		position: fixed; 		top: 0px; 		    z-index: 90; 		width: 100%; 	}
+}
+@media all and (max-width: 657px) {
+	header .menusubtop .logo { 		max-width: 280px; 		height: 39px; 		padding-top: 3px; 	}
+	header .menusubtop .slider-label { 		font-size: 20px; 		padding-top: 25px; 		padding-right: 8px; 	}	
+}
+
+@media all and (max-width: 475px) {
+	.twoBox .listBox .image {     width: 100%;     margin-bottom: 10px; 	}
+	.twoBox .listBox .image img {     width: 100%; 	}
+	.twoBox .contentBox { margin-top:30px; }
+	.twoBox ul li span {     position: relative;     top: 2px; 	}
+	.twoBox {     padding-bottom: 0px; 	}
+	.twoBox ul li img {    padding-right: 7px; width: 23px; }
+	.twoBox ul li {   display:block;   width: 90%; margin: 0 auto;  border:1px solid #ccc;    border-radius: 22px;  margin-bottom:5px; 	}
+	header .menusubtop .slider img {     height: 280px; 	}
+	header .menusubtop .slider-label { 		padding-top: 41px; 	}	
+	.nossosVereadores { background-size: initial; } 
+}
+@media all and (max-width: 425px) {
+	header .menuaftertop { text-align: left;      padding-top: 7px;     padding-bottom: 7px;	}
+    header .menuaftertop li  { display: block; }
+	header .menuaftertop ul { padding-left:10px; }
+}
